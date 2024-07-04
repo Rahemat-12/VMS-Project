@@ -1,0 +1,205 @@
+User <django.db.models.query_utils.DeferredAttribute object at 0x0000022193019460> authenticated successfully
+An error occurred during logOut: UserSession matching query does not exist.
+An error occurred during logOut: UserSession matching query does not exist.
+An error occurred during logOut: UserSession matching query does not exist.
+An error occurred during logOut: UserSession matching query does not exist.
+User <django.db.models.query_utils.DeferredAttribute object at 0x00000189FD339970> authenticated successfully
+User <django.db.models.query_utils.DeferredAttribute object at 0x00000189FD339970> authenticated successfully
+User <django.db.models.query_utils.DeferredAttribute object at 0x00000189FD339970> session updated to active
+User <django.db.models.query_utils.DeferredAttribute object at 0x0000011FF6D79970> authenticated successfully
+An error occurred during logOut: UserSession matching query does not exist.
+User <django.db.models.query_utils.DeferredAttribute object at 0x0000021AEE029970> authenticated successfully
+User <django.db.models.query_utils.DeferredAttribute object at 0x0000020C6E2E9970> authenticated successfully
+User <django.db.models.query_utils.DeferredAttribute object at 0x00000177A8A91910> authenticated successfully
+User <django.db.models.query_utils.DeferredAttribute object at 0x000001D3F78618E0> authenticated successfully
+User <django.db.models.query_utils.DeferredAttribute object at 0x000001D3F78618E0> authenticated successfully
+User <django.db.models.query_utils.DeferredAttribute object at 0x00000183B0DE9970> authenticated successfully
+User Already Logged in 
+User <django.db.models.query_utils.DeferredAttribute object at 0x00000183B0DE9970> authenticated successfully
+User Already Logged in 
+User %s authenticated successfully
+User Already Logged in 
+User authenticated successfully
+User Already Logged in 
+User authenticated successfully
+User Already Logged in 
+User authenticated successfully
+User Already Logged in 
+An error occurred during logOut: UserSession matching query does not exist.
+User LogOut successful 
+User authenticated successfully
+User authenticated successfully
+User Already Logged in 
+User authenticated successfully
+User authenticated successfully
+User session updated to ACTIVE successfully
+User LogOut successful 2024-05-13T08:57:12.717157+00:00
+User LogOut successful 2024-05-13T16:00:48.451828+05:30
+User LogOut successful 2024-05-13 16:02:34.247217+05:30
+User Registration Successful  2024-05-13 16:09:44.389630+05:30
+New User Registration Successful  2024-05-13 16:13:58.705506+05:30,{'username': 'wasim', 'password': 'wasim', 'user_role': 'c7c7a487-0517-11ef-8dab-38fe52a029ee', 'user_detail': '767d1487-b89c-41a1-9eef-5bd5ecd37137'}
+User authenticated successfully 2024-05-13 17:32:25.443703+05:30
+User LogIn Successfully  2024-05-13 17:32:25.459399+05:30
+User LogOut successful 2024-05-13 17:45:04.730960+05:30
+Invalid Username 2024-05-13 17:55:03.107225+05:30
+Invalid Password 2024-05-13 17:56:03.708407+05:30
+User LogOut successful UserSession object (6f1a4449-43a3-46d2-ab6a-7fefb81eba55)
+Invalid Password 2024-05-15 14:13:40.935058+05:30
+User authenticated successfully 2024-05-15 14:13:47.839092+05:30
+User Already Logged in  2024-05-15 14:13:47.868970+05:30 
+User LogOut successful UserSession object (e2ec45eb-cc4b-4462-988d-d70e4d0299e4)
+User authenticated successfully 2024-05-15 14:14:52.737325+05:30
+User session updated to ACTIVE successfully 3abac7a5-c400-474e-89a9-312993b9d9cd:
+User authenticated successfully 
+User Already Logged in  2024-05-15 14:20:25.302988+05:30 
+User authenticated successfully 
+User Already Logged in 
+User authenticated successfully 
+User Already Logged in 
+User authenticated successfully 
+User Already Logged in {'username': 'wasim', 'password': 'wasim'}:
+User authenticated successfully 
+User Already Logged in 3abac7a5-c400-474e-89a9-312993b9d9cd:
+User authenticated successfully 
+User Already Logged in 3abac7a5-c400-474e-89a9-312993b9d9cd:
+User authenticated successfully 
+User Already Logged in 3abac7a5-c400-474e-89a9-312993b9d9cd:
+User authenticated successfully 
+User Already Logged in 3abac7a5-c400-474e-89a9-312993b9d9cd:
+User LogOut successful UserSession object (3feed102-5f49-4fcc-a74b-b8dc45de2bd8)
+User LogOut successful UserSession object (3feed102-5f49-4fcc-a74b-b8dc45de2bd8)
+User LogOut successful 2024-05-15 14:45:03.052890+05:30
+User LogOut successful INACTIVE
+User LogOut successful Session Status : INACTIVE
+Error retriving user details for Email raut@112gmail.com: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'UserRegister'.
+Error retriving user details for Email raut@112gmail.com: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'UserRegister'.
+Error retriving user details for Email raut@112gmail.com: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'UserRegister'.
+Error retriving user details for Email raut@112gmail.com: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'UserRegister'.
+Error retriving user details for Email raut@112gmail.com: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'UserRegister'.
+Error retriving user details for Email rahe123@gmail.com: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'UserRegister'.
+Error retriving user details for Email rahe123@gmail.com: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'UserRegister'.
+Error retriving user details for Email rahe123@gmail.com: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'UserRegister'.
+Error retriving user details for Email rahe123@gmail.com: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'UserRegister'.
+Error retriving user details for Email rahe123@gmail.com: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'UserRegister'.
+Error retriving user details for Email rahe123@gmail.com: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'UserRegister'.
+Error retriving user details for Email rahe123@gmail.com: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'UserRegister'.
+Error retrieving user details for email rahe123@gmail.com: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'UserRegister'.
+Error retrieving user details for email rahe123@gmail.com: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'UserRegister'.
+Error retrieving user details for email rahe123@gmail.com: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'UserRegister'.
+Error retrieving user details for email salt@gmail.com: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'UserRegister'.
+Error retrieving user details for email salt@gmail.com: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'UserRegister'.
+Error retrieving user details for email salt@gmail.com: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'UserRegister'.
+Error retrieving user details for email rahe@gmail.com: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'UserRegister'.
+Error retrieving user details for email rahe@gmail.com: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'UserRegister'.
+Error retrieving user details for email rahe@gmail.com: First argument to get_object_or_404() must be a Model, Manager, or QuerySet, not 'UserRegister'.
+An error occurred: type object 'UserRegister' has no attribute 'objects'
+An error occurred: type object 'UserRegister' has no attribute 'objects'
+An error occurred: type object 'UserRegister' has no attribute 'objects'
+An error occurred: type object 'UserRegister' has no attribute 'objects'
+An error occurred: type object 'UserRegister' has no attribute 'objects'
+An error occurred: type object 'UserRegister' has no attribute 'objects'
+An error occurred: type object 'UserRegister' has no attribute 'objects'
+An error occurred: type object 'UserRegister' has no attribute 'objects'
+User LogOut successful Session Status : INACTIVE
+User LogOut successful Session Status : INACTIVE
+User LogOut successful Session Status : INACTIVE
+An error occurred during logOut: UserSession matching query does not exist.
+An error occurred: type object 'UserRegister' has no attribute 'objects' 
+An error occurred: type object 'UserRegister' has no attribute 'objects' 
+An error occurred: type object 'UserRegister' has no attribute 'objects' 
+An error occurred: type object 'UserRegister' has no attribute 'objects' 
+An error occurred: type object 'UserRegister' has no attribute 'objects' 
+An error occurred: type object 'UserRegister' has no attribute 'objects' 
+An error occurred: type object 'UserRegister' has no attribute 'objects' 
+An error occurred: type object 'UserRegister' has no attribute 'objects' 
+An error occurred: type object 'UserRegister' has no attribute 'objects' 
+An error occurred: type object 'UserRegister' has no attribute 'objects' 
+An error occurred: type object 'UserRegister' has no attribute 'objects' 
+An error occurred: type object 'UserRegister' has no attribute 'objects' 
+An error occurred: type object 'UserRegister' has no attribute 'objects' 
+An error occurred: type object 'UserRegister' has no attribute 'objects' 
+An error occurred: type object 'UserRegister' has no attribute 'objects' 
+An error occurred: type object 'UserRegister' has no attribute 'objects' 
+An error occurred during : type object 'UserRegister' has no attribute 'objects'
+An error occurred during : type object 'UserRegister' has no attribute 'objects'
+An error occurred during : type object 'UserRegister' has no attribute 'objects'
+An error occurred during : type object 'UserRegister' has no attribute 'objects'
+An error occurred during : type object 'UserRegister' has no attribute 'objects'
+An error occurred during : type object 'UserRegister' has no attribute 'objects'
+An error occurred during finding: type object 'UserRegister' has no attribute 'objects'
+An error occurred during finding: type object 'UserRegister' has no attribute 'objects'
+An error occurred during finding: type object 'UserRegister' has no attribute 'objects'
+An error occurred during finding: type object 'UserRegister' has no attribute 'objects'
+An error occurred during finding: type object 'UserRegister' has no attribute 'objects'
+An error occurred during finding: type object 'UserRegister' has no attribute 'objects'
+An error occurred during finding: type object 'UserRegister' has no attribute 'objects'
+An error occurred during finding: type object 'UserRegister' has no attribute 'objects'
+An error occurred during finding: type object 'UserRegister' has no attribute 'objects'
+An error occurred during finding: type object 'UserRegister' has no attribute 'objects'
+An error occurred: type object 'UserRegister' has no attribute 'objects' 
+An error occurred: type object 'UserRegister' has no attribute 'objects' 
+An error occurred: type object 'UserRegister' has no attribute 'objects' 
+An error occurred fetching user data: Field 'id' expected a number but got 'e0ab26fbbb87477ab7d96c95cf42abf0'.
+An error occurred fetching user data: Field 'id' expected a number but got 'e0ab26fbbb87477ab7d96c95cf42abf0'.
+An error occurred fetching user data: Field 'id' expected a number but got 'e0ab26fbbb87477ab7d96c95cf42abf0'.
+An error occurred fetching user data: Field 'id' expected a number but got 'e0ab26fbbb87477ab7d96c95cf42abf0'.
+An error occurred fetching user data: type object 'UserRegister' has no attribute 'objects'
+An error occurred fetching user data: type object 'UserRegister' has no attribute 'objects'
+An error occurred fetching user data: type object 'UserRegister' has no attribute 'objects'
+An error occurred fetching user data: type object 'UserRegister' has no attribute 'objects'
+An error occurred fetching user data: UserSession matching query does not exist.
+An error occurred fetching user data: type object 'UserRegister' has no attribute 'objects'
+An error occurred fetching user data: type object 'UserRegister' has no attribute 'objects'
+An error occurred fetching user data: type object 'UserRegister' has no attribute 'objects'
+An error occurred fetching user data: type object 'UserRegister' has no attribute 'objects'
+An error occurred fetching user data: type object 'UserRegister' has no attribute 'objects'
+An error occurred fetching user data: Field 'id' expected a number but got 'e0ab26fbbb87477ab7d96c95cf42abf0'.
+An error occurred fetching user data: Field 'id' expected a number but got 'e0ab26fbbb87477ab7d96c95cf42abf0'.
+An error occurred fetching user data: Field 'id' expected a number but got 'e0ab26fbbb87477ab7d96c95cf42abf0'.
+An error occurred fetching user data: Field 'id' expected a number but got 'e0ab26fbbb87477ab7d96c95cf42abf0'.
+An error occurred fetching user data: Field 'id' expected a number but got 'e0ab26fbbb87477ab7d96c95cf42abf0'.
+An error occurred fetching user data: Field 'id' expected a number but got 'e0ab26fbbb87477ab7d96c95cf42abf0'.
+data fetch successful
+data fetch successful : userRegisterSerializer(<UserRegister: UserRegister object (08a5da36-a8a8-4e34-a6e0-66b8b8831872)>):
+    id = UUIDField(read_only=True)
+    first_name = CharField(max_length=50)
+    last_name = CharField(max_length=20)
+    phone_number = CharField(max_length=15, required=False)
+    email = EmailField(max_length=255, validators=[<UniqueValidator(queryset=UserRegister.objects.all())>])
+    active = BooleanField(required=False)
+    comment = CharField(max_length=512, required=False)
+data fetch successful : <class 'vmsApp.models.UserRegister'>
+data fetch successful : {'id': '08a5da36-a8a8-4e34-a6e0-66b8b8831872', 'first_name': 'manik', 'last_name': 'Raut', 'phone_number': '9876552355', 'email': 'raut@112gmail.com', 'active': True, 'comment': ''}
+data fetch successful : {'id': '08a5da36-a8a8-4e34-a6e0-66b8b8831872', 'first_name': 'manik', 'last_name': 'Raut', 'phone_number': '9876552355', 'email': 'raut@112gmail.com', 'active': True, 'comment': ''}
+data fetch successful : {'id': '08a5da36-a8a8-4e34-a6e0-66b8b8831872', 'first_name': 'manik', 'last_name': 'Raut', 'phone_number': '9876552355', 'email': 'raut@112gmail.com', 'active': True, 'comment': ''}
+data fetch successful : {'id': '08a5da36-a8a8-4e34-a6e0-66b8b8831872', 'first_name': 'manik', 'last_name': 'Raut', 'phone_number': '9876552355', 'email': 'raut@112gmail.com', 'active': True, 'comment': ''}
+Fetch Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
+Fetching Data SuccessFull From Both Tables
